@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2119
     wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Townsend
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19146#The-Entailed-Hat--Or-Patty-Cannon-s-Times
 gutenberg_issued: '2006-08-30'
 gutenberg_type: Text
 identifiers:

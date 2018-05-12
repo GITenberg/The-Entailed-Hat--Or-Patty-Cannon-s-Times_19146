@@ -1,0 +1,32 @@
+_repo: The-Entailed-Hat--Or-Patty-Cannon-s-Times_19146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Townsend, George Alfred
+    aliases:
+    - Bouquet, Johnny
+    - Townsend, G. A. (George Alfred)
+    birthdate: 1841
+    deathdate: 1914
+    gutenberg_agent_id: '2119'
+    url: http://www.gutenberg.org/2009/agents/2119
+    wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Townsend
+description: ''
+gutenberg_issued: '2006-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kidnapping -- Fiction'
+- !lcc 'PS'
+- !lcsh 'African Americans -- Crimes against -- Fiction'
+- !lcsh 'Eastern Shore (Md. and Va.) -- Social life and customs -- Fiction'
+title: The Entailed Hat; Or, Patty Cannon's Times
+url: http://www.gutenberg.org/ebooks/19146
